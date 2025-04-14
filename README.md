@@ -10,6 +10,8 @@ Currently both MCP tools and resources exist for accessing notes since some clie
 
 ## Installation
 
+The [Obsidian Metadata Extractor](https://github.com/kometenstaub/metadata-extractor) plugin needs to be enabled in order to create the `metadata.json` file this MCP server uses.
+
 ### VS Code
 
 You'll need to add a `.vscode/mcp.json` file to your workspace. Or you can set it up so all workspaces have access: https://code.visualstudio.com/docs/copilot/chat/mcp-servers.
